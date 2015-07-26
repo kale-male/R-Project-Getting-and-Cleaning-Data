@@ -1,0 +1,7 @@
+WORKING.R
+*.zip
+UCI HAR Dataset
+*.Rproj
+.RData
+.Rhistory
+.Rproj.user
